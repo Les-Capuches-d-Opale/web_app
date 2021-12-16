@@ -1,0 +1,6 @@
+[submodule "ui"]
+	path = ui
+	url = https://github.com/Les-Capuches-d-Opale/ui.git
+[submodule "back-end"]
+	path = back-end
+	url = https://github.com/Les-Capuches-d-Opale/back-end.git
